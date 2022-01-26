@@ -1,0 +1,4 @@
+-> https://web.dio.me/course/trabalhando-com-git-e-gitlab-na-pratica/learning/b05c2fe6-9831-445a-a27d-9aa3434a25f8/?back=/home
+-> https://web.dio.me/course/git-e-github-focado-em-pullrequest/learning/7ee9e586-a200-41de-a075-fd6a7b4b5a1e/?back=/home
+-> https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/?back=/home
+-> https://www.youtube.com/results?search_query=fabio+akita+github+
